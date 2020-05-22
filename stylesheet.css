@@ -1,0 +1,18 @@
+.jumbotron {
+    height:50vh;
+    background:url(../img/jumbotron.jpg);
+    background-size: cover;
+}
+html{ font-family: sans-serif;}
+.carousel-item{
+  background-size:cover;
+  height:50vh;
+}
+img{
+    width:30%;
+    
+}
+.bottle{ background:url('../img/bottle.jpg');
+  background-position: 1000%;
+  height:150vh;
+  background-size: cover;}
